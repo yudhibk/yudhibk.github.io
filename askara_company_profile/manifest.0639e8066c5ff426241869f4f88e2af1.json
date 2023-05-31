@@ -1,0 +1,97 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f73f2f3c5eb02755e8f5920cbfb71f22.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_256x256.3382db5e32008a9074e8c407fb619510.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_144x144.fcb2abf303d4f856e27e423739900e64.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_128x128.1b177f4e9d0ace4b60504fdb342406dc.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_48x48.b42c71f99f19db4a29982d4608bdcf6a.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_32x32.71077c0f891a894a79cd2c07ca051f45.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_16x16.ab82fac136351ba43d500fadca7de526.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_512x512.6181165df1b756fbe651682b472d7a7b.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_256x256.f1ccecd71cb3e0bbafbb85c1965b73f9.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_144x144.5d76d6660c07dae7c37486808491f516.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_128x128.bc46a794324a51b79a0ddbf58fc5ccd5.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_48x48.c79c81e2b9a7d1a0e4aa532c944f819e.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_32x32.3aee1fa70c1678dfa4cfe84c42cead67.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon_16x16.0532aaea4d6c6ade36a1f1e4dd265f1d.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "name": "PT Askara Internal - Company Profile",
+  "short_name": "Askara",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "id": "Askara-CompanyProfile-PWA",
+  "description": "ASKARA Group established in 1995, a group company that focuses in industrial segment, equipment procurement & hospitality. One stop solution for automotive components, mechanical, electrical services, technical support, construction & landscaping for Office and Industry.",
+  "theme_color": "#091ABE",
+  "background_color": "#ffffff"
+}
